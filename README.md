@@ -1,5 +1,5 @@
 # RandomizedTransmissions
-RandomizedTransmissions provides Contiki-ng client and server example code that enable transmission of sensor data at random time instants. It is based on stochastic-control-theoretic ideas developed over 2020-2023.
+RandomizedTransmissions provides Contiki-ng client and server example code that enable transmission of sensor data at random time instants. This example can provide an elementary basis for industrial applications of randomized transmissions as well as Internet of Things for a home user. The overall project is based on stochastic-control-theoretic ideas developed over 2020-2023.
 
 
 ## Devices
