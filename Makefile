@@ -1,4 +1,4 @@
-CONTIKI_PROJECT = test-leds udp-client udp-server consensus-client consensus-server
+CONTIKI_PROJECT = randomized-client randomized-server
 CONTIKI_TARGET_SOURCEFILES += dht22.c leds.c
 all: $(CONTIKI_PROJECT)
 PLATFORMS_ONLY = zoul
